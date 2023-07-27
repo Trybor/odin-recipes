@@ -2,6 +2,8 @@ Odin Recipes Assignment
 https://www.theodinproject.com/lessons/foundations-recipes
 This repository contains the code for the Odin Recipes assignment. The goal of this project is to create a simple recipe website with multiple recipe pages.
 
+Here is a preview: https://64c24a6cfb59f0033faf984c--vocal-souffle-baafd2.netlify.app/
+
 Iteration 1: Initial Structure
 Created the index.html file with basic HTML boilerplate.
 Added an h1 heading "Odin Recipes" to the body.
